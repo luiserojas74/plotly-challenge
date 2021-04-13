@@ -65,11 +65,9 @@ function  buildBarChart(sample, values, ids, labels){
 
 function buildCharts(sample) {
   d3.json(jsonPath).then((data) => {
-    // console.log(data);
     var samples= data.samples;
     var resultsarray= samples.filter(sampleobject => sampleobject.id == sample);
     var result= resultsarray[0]
-    // console.log(result);
     var ids = result.otu_ids;
     var labels = result.otu_labels;
     var values = result.sample_values;
