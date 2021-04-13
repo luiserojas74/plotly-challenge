@@ -2,7 +2,7 @@
    - This is the project I developed for unit 15 of the Boot Camp: [Data Visualization and Analytics](https://bootcamp.uncc.edu/data/)
    - I created an interactive dashboard to explore the Belly Button Biodiversity dataset. For more details, see [here](#the-original-text-of-the-homework-assignment).
    - Here is a snapshot of the app: 
-<img src="../images/UFO.png" width="600" height="400">
+<img src="images/UFO.png" width="600" height="400">
 
   ### - The link for the app of this project is [here](https://luiserojas74.github.io/plotly-challenge/tree/main/StarterCode).
    - The main tools I used on this project are : html, css and [D3] (https://d3js.org/).
