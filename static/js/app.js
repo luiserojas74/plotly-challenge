@@ -1,4 +1,4 @@
-var jsonPath = "../data/samples.json";
+var jsonPath = "./data/samples.json";
 
 function buildPanel(sample) {
     d3.json(jsonPath).then((data) => {
